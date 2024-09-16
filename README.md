@@ -1,4 +1,4 @@
-**For learning Java Script**
+**Java Script**
 https://cloud-native-developer-journey.cfapps.eu12.hana.ondemand.com/
 
 
